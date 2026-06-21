@@ -1,4 +1,4 @@
-# Jacksonville MAY Weather Analysis
+# Jacksonville May Weather Analysis
 
 A small data project exploring May weather patterns in Jacksonville, FL using a public weather API.
 
